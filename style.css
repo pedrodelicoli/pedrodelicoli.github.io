@@ -1,5 +1,7 @@
-.meuNome { font-size: 2em;
+.meuNome { 
+    font-size: 2em;
     font-family: sans-serif;
+    color: #03045e;
 
 }
 
@@ -8,6 +10,7 @@
     border: 8px solid black;
     margin-right: auto;
     margin-right: auto;
+    border-radius: 10%;
     
 }
 body {
@@ -19,3 +22,14 @@ body {
 .lista {
     
 }
+
+.buttom {
+    color: #fff;
+    background-color: #03045e;
+    padding-block: 5px;
+    text-decoration: none;
+    border-radius: 10%;
+    margin: 5px;
+   
+}
+
