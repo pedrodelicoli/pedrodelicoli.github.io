@@ -8,9 +8,8 @@
 .foto {
     width: 250px;
     border: 8px solid black;
-    margin-right: auto;
-    margin-right: auto;
     border-radius: 10%;
+    left: 50%;
     
 }
 body {
@@ -26,10 +25,33 @@ body {
 .buttom {
     color: #fff;
     background-color: #03045e;
-    padding-block: 5px;
+    padding: 5px 15px 5px 15px;
     text-decoration: none;
-    border-radius: 10%;
-    margin: 5px;
-   
+    border-radius:  1%;
+    margin: 10px;
+    border: 1px solid white;
+    
+}
+.buttom:hover {
+    color: #03045e;
+    background-color: white;
+    border: 1px solid #03045e;
 }
 
+.principal {
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 5%;
+    text-align: left;
+
+}
+
+.lista {
+    
+    
+}
+
+
+.logogit {
+  
+}
